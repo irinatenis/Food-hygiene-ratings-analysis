@@ -1,4 +1,4 @@
-# nosql-challenge
+# Food hygiene ratings analysis
 ## **Goal**:
 
 Import a JSON file to MongoDB and use PyMongo to update  and explore the data to answer a number of questions. This particular dataset contains a list of various establishments across the UK with location details and ratings data.  
